@@ -16,6 +16,18 @@
 </dependency>
 
 
+<dependency>
+			<groupId>commons-fileupload</groupId>
+			<artifactId>commons-fileupload</artifactId>
+			<version>1.3.1</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-net</groupId>
+			<artifactId>commons-net</artifactId>
+			<version>3.6</version>
+		</dependency>
+
+
 ftp.server.name=ftp.htcindia.com
 ftp.server.port=21
 ftp.server.username=pnasmartcomm
